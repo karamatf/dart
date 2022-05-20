@@ -123,11 +123,7 @@ void main() {
   ];
 
   var overallWinner2017 = "Shyft";
-  var shyft2017 =
-      "Shyft is the money app that gives you more for less, 24/7. Buy forex instantly anytime, anywhere, and at the best rates, and invest in the top U.S. stocks and ETFs directly from your phone.";
   var overallWinner2018 = "Khula";
-  var khula2018 =
-      "Tools and platforms to support and grow your business in the agriculture supply chain";
   var totalnumbersoffapps = "Total numbers of apps 94";
 
   listOfWinningApps2012.sort();
@@ -161,9 +157,8 @@ void main() {
   print('2021 $listOfWinningApps2021');
 
   print('Overal Winner 2017 $overallWinner2017');
-  print(shyft2017);
 
   print('Overal Winner 2018 $overallWinner2018');
-  print(khula2018);
+
   print(totalnumbersoffapps);
 }
